@@ -3,4 +3,5 @@ An E-Commerce website built with HTML, CSS, JavaScript and Bootstrap. Made to fa
 
 
 
-![p11](https://user-images.githubusercontent.com/76779409/149626220-ed21d2c1-9881-4215-b24c-b20f3a7114d2.png)
+![screencapture-file-C-Users-Ameer-Documents-Code-Workspace-E-commerce-website-Digicorp-X-10-index-html-2022-01-15-15_56_16](https://user-images.githubusercontent.com/76779409/149626309-445d5509-f931-4d00-bd91-665ae40b912b.png)
+
